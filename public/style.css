@@ -1,0 +1,13 @@
+#wrapper {
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#articles {
+    display: inline;
+    width: 60%;
+    height: 700px;
+}
+#notes {
+    width: 30%;
+}
